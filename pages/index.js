@@ -1,10 +1,9 @@
 function Home () {
-    return <h1> Lubson, estou com saudade de você. A vida anda corrida, 
-        mas queria que soubesse 
-        que sinto falta das nossas 
-        conversas e da nossa parceria de sempre. 
-        Quando der, vamos nos ver e colocar tudo em dia. 
-        Você é importante pra mim. </h1>   
+    return <h1> Bom dia, venho através desse comunicado que estou no
+        aguardo da alteração do limite para realizar o pagamento conforme combinado.
+        Desde já agradeço a compreensão.
+        
+        Atenciosamente, </h1>   
 }
 
 export default Home;
